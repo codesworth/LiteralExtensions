@@ -17,6 +17,7 @@
 		3801AD7B221AE0B0007A9C70 /* CGSize+Literals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD7A221AE0B0007A9C70 /* CGSize+Literals.swift */; };
 		3801AD7D221AE26C007A9C70 /* CGSizeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD7C221AE26C007A9C70 /* CGSizeTests.swift */; };
 		3801AD7F221AE857007A9C70 /* UIOffset+Literals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD7E221AE857007A9C70 /* UIOffset+Literals.swift */; };
+		3801AD81221AEB93007A9C70 /* UIOffsetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD80221AEB93007A9C70 /* UIOffsetTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		3801AD7A221AE0B0007A9C70 /* CGSize+Literals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGSize+Literals.swift"; sourceTree = "<group>"; };
 		3801AD7C221AE26C007A9C70 /* CGSizeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGSizeTests.swift; sourceTree = "<group>"; };
 		3801AD7E221AE857007A9C70 /* UIOffset+Literals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIOffset+Literals.swift"; sourceTree = "<group>"; };
+		3801AD80221AEB93007A9C70 /* UIOffsetTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIOffsetTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				3801AD74221AD337007A9C70 /* CGPointTests.swift */,
 				3801AD78221ADF5E007A9C70 /* CGRectTests.swift */,
 				3801AD7C221AE26C007A9C70 /* CGSizeTests.swift */,
+				3801AD80221AEB93007A9C70 /* UIOffsetTests.swift */,
 			);
 			path = LiteralExtensionsTests;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 				3801AD7D221AE26C007A9C70 /* CGSizeTests.swift in Sources */,
 				3801AD75221AD337007A9C70 /* CGPointTests.swift in Sources */,
 				3801AD64221AC706007A9C70 /* LiteralExtensionsTests.swift in Sources */,
+				3801AD81221AEB93007A9C70 /* UIOffsetTests.swift in Sources */,
 				3801AD79221ADF5E007A9C70 /* CGRectTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
