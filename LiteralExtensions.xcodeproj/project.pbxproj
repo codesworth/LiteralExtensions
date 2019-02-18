@@ -15,6 +15,7 @@
 		3801AD77221AD74A007A9C70 /* CGRect+Literals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD76221AD74A007A9C70 /* CGRect+Literals.swift */; };
 		3801AD79221ADF5E007A9C70 /* CGRectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD78221ADF5E007A9C70 /* CGRectTests.swift */; };
 		3801AD7B221AE0B0007A9C70 /* CGSize+Literals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD7A221AE0B0007A9C70 /* CGSize+Literals.swift */; };
+		3801AD7D221AE26C007A9C70 /* CGSizeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD7C221AE26C007A9C70 /* CGSizeTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +40,7 @@
 		3801AD76221AD74A007A9C70 /* CGRect+Literals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGRect+Literals.swift"; sourceTree = "<group>"; };
 		3801AD78221ADF5E007A9C70 /* CGRectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGRectTests.swift; sourceTree = "<group>"; };
 		3801AD7A221AE0B0007A9C70 /* CGSize+Literals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGSize+Literals.swift"; sourceTree = "<group>"; };
+		3801AD7C221AE26C007A9C70 /* CGSizeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGSizeTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				3801AD65221AC706007A9C70 /* Info.plist */,
 				3801AD74221AD337007A9C70 /* CGPointTests.swift */,
 				3801AD78221ADF5E007A9C70 /* CGRectTests.swift */,
+				3801AD7C221AE26C007A9C70 /* CGSizeTests.swift */,
 			);
 			path = LiteralExtensionsTests;
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3801AD7D221AE26C007A9C70 /* CGSizeTests.swift in Sources */,
 				3801AD75221AD337007A9C70 /* CGPointTests.swift in Sources */,
 				3801AD64221AC706007A9C70 /* LiteralExtensionsTests.swift in Sources */,
 				3801AD79221ADF5E007A9C70 /* CGRectTests.swift in Sources */,
