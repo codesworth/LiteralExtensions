@@ -16,6 +16,7 @@
 		3801AD79221ADF5E007A9C70 /* CGRectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD78221ADF5E007A9C70 /* CGRectTests.swift */; };
 		3801AD7B221AE0B0007A9C70 /* CGSize+Literals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD7A221AE0B0007A9C70 /* CGSize+Literals.swift */; };
 		3801AD7D221AE26C007A9C70 /* CGSizeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD7C221AE26C007A9C70 /* CGSizeTests.swift */; };
+		3801AD7F221AE857007A9C70 /* UIOffset+Literals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD7E221AE857007A9C70 /* UIOffset+Literals.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,6 +42,7 @@
 		3801AD78221ADF5E007A9C70 /* CGRectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGRectTests.swift; sourceTree = "<group>"; };
 		3801AD7A221AE0B0007A9C70 /* CGSize+Literals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGSize+Literals.swift"; sourceTree = "<group>"; };
 		3801AD7C221AE26C007A9C70 /* CGSizeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGSizeTests.swift; sourceTree = "<group>"; };
+		3801AD7E221AE857007A9C70 /* UIOffset+Literals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIOffset+Literals.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				3801AD70221ACB5A007A9C70 /* CGPoint+Literals.swift */,
 				3801AD76221AD74A007A9C70 /* CGRect+Literals.swift */,
 				3801AD7A221AE0B0007A9C70 /* CGSize+Literals.swift */,
+				3801AD7E221AE857007A9C70 /* UIOffset+Literals.swift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -223,6 +226,7 @@
 			files = (
 				3801AD71221ACB5A007A9C70 /* CGPoint+Literals.swift in Sources */,
 				3801AD7B221AE0B0007A9C70 /* CGSize+Literals.swift in Sources */,
+				3801AD7F221AE857007A9C70 /* UIOffset+Literals.swift in Sources */,
 				3801AD77221AD74A007A9C70 /* CGRect+Literals.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
