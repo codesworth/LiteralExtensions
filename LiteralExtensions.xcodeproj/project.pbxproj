@@ -18,6 +18,7 @@
 		3801AD7D221AE26C007A9C70 /* CGSizeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD7C221AE26C007A9C70 /* CGSizeTests.swift */; };
 		3801AD7F221AE857007A9C70 /* UIOffset+Literals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD7E221AE857007A9C70 /* UIOffset+Literals.swift */; };
 		3801AD81221AEB93007A9C70 /* UIOffsetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD80221AEB93007A9C70 /* UIOffsetTests.swift */; };
+		3801AD83221AEC20007A9C70 /* UIEdgeInsets+Literals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3801AD82221AEC20007A9C70 /* UIEdgeInsets+Literals.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		3801AD7C221AE26C007A9C70 /* CGSizeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGSizeTests.swift; sourceTree = "<group>"; };
 		3801AD7E221AE857007A9C70 /* UIOffset+Literals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIOffset+Literals.swift"; sourceTree = "<group>"; };
 		3801AD80221AEB93007A9C70 /* UIOffsetTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIOffsetTests.swift; sourceTree = "<group>"; };
+		3801AD82221AEC20007A9C70 /* UIEdgeInsets+Literals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIEdgeInsets+Literals.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				3801AD76221AD74A007A9C70 /* CGRect+Literals.swift */,
 				3801AD7A221AE0B0007A9C70 /* CGSize+Literals.swift */,
 				3801AD7E221AE857007A9C70 /* UIOffset+Literals.swift */,
+				3801AD82221AEC20007A9C70 /* UIEdgeInsets+Literals.swift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3801AD71221ACB5A007A9C70 /* CGPoint+Literals.swift in Sources */,
+				3801AD83221AEC20007A9C70 /* UIEdgeInsets+Literals.swift in Sources */,
 				3801AD7B221AE0B0007A9C70 /* CGSize+Literals.swift in Sources */,
 				3801AD7F221AE857007A9C70 /* UIOffset+Literals.swift in Sources */,
 				3801AD77221AD74A007A9C70 /* CGRect+Literals.swift in Sources */,
