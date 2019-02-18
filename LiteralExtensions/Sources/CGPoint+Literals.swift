@@ -42,10 +42,9 @@ extension CGPoint:ExpressibleByIntegerLiteral{
 extension CGPoint:ExpressibleByFloatLiteral{
     
     public typealias FloatLiteralType = Double
+    
     public init(floatLiteral value: FloatLiteralType) {
         self = CGPoint(x: value, y: value)
     }
 }
 
-
-extension CGPoint
