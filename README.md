@@ -1,7 +1,7 @@
 # LiteralExtensions
 A Simple Swift Helper Library providing extensions on Types to be used with Literals
 
-LiteralExtensions as its name suggest is an extension on some Swift standard Library structs that comforms to ExpressibleBy{Type}Literal
+LiteralExtensions as its name suggest is an extension on some Swift standard Library structs that conforms to ExpressibleBy{Type}Literal
 
 Its is a simple and efficient way to work along aside some standard library types by passing literals to it instead of verbose initializers
 
